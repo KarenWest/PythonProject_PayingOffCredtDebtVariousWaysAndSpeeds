@@ -1,0 +1,42 @@
+Month: 1
+Minimum monthly payment: 1410.52
+Remaining Balance: 34416.69
+Month: 2
+Minimum monthly payment: 1376.67
+Remaining Balance: 33590.69
+Month: 3
+Minimum monthly payment: 1343.63
+Remaining Balance: 32784.51
+Month: 4
+Minimum monthly payment: 1311.38
+Remaining Balance: 31997.68
+Month: 5
+Minimum monthly payment: 1279.91
+Remaining Balance: 31229.74
+Month: 6
+Minimum monthly payment: 1249.19
+Remaining Balance: 30480.22
+Month: 7
+Minimum monthly payment: 1219.21
+Remaining Balance: 29748.70
+Month: 8
+Minimum monthly payment: 1189.95
+Remaining Balance: 29034.73
+Month: 9
+Minimum monthly payment: 1161.39
+Remaining Balance: 28337.90
+Month: 10
+Minimum monthly payment: 1133.52
+Remaining Balance: 27657.79
+Month: 11
+Minimum monthly payment: 1106.31
+Remaining Balance: 26994.00
+Month: 12
+Minimum monthly payment: 1079.76
+Remaining Balance: 26346.14
+Balance at Start (input): 35263.00
+With annual interest rate (input) : 0.20
+With monthly interest rate (annualIntRate/12): 0.02
+With Monthly Payment rate (input): 0.04
+Total Paid: 14861.43
+Remaining balance: 26346.14
